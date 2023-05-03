@@ -3,12 +3,11 @@
         "target": "esnext",
         "module": "nodenext",
         "moduleResolution": "nodenext",
-        
+        "rootDir": "root",
         "outDir": "build",
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
     },
-    "include": ["src"]
 }
